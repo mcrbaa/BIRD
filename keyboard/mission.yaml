@@ -1,0 +1,15 @@
+api_version: 3
+kind: Mission
+metadata:
+  uid: com.test.missions.keyboard
+  name: keyboard
+  description: Control the drone with the keyboard
+  version: "0.0.0"
+  entry: keyboard.py
+targets:
+  Anafi Ai:
+  Anafi Ai Simulator:
+deps: 
+  zbar:
+    type: auto
+    lang: c

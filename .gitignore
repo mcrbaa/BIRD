@@ -5,15 +5,3 @@ parrot-olympe/olympe/products/
 parrot-olympe/olympe/build.sh
 parrot-olympe/parrot-olympe-src-7.7.5.tar.gz
 
-airsdk-samples/hello/
-airsdk-samples/move/
-airsdk-samples/occupancy_grid/
-airsdk-samples/road_runner/
-airsdk-samples/telemetry_c/
-airsdk-samples/telemetry_cpp/
-airsdk-samples/tracking/
-airsdk-samples/video_photo_c/
-airsdk-samples/video_photo_cpp/
-airsdk-samples/.git/
-airsdk-samples/README.md
-
