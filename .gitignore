@@ -3,6 +3,7 @@ parrot-olympe/olympe/out/
 parrot-olympe/olympe/packages/
 parrot-olympe/olympe/products/
 parrot-olympe/olympe/build.sh
+parrot-olympe/parrot-olympe-src-7.7.5.tar.gz
 
 airsdk-samples/hello/
 airsdk-samples/move/
@@ -15,3 +16,4 @@ airsdk-samples/video_photo_c/
 airsdk-samples/video_photo_cpp/
 airsdk-samples/.git/
 airsdk-samples/README.md
+
