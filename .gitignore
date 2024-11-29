@@ -1,0 +1,17 @@
+parrot-olympe/olympe/build/
+parrot-olympe/olympe/out/
+parrot-olympe/olympe/packages/
+parrot-olympe/olympe/products/
+parrot-olympe/olympe/build.sh
+
+airsdk-samples/hello/
+airsdk-samples/move/
+airsdk-samples/occupancy_grid/
+airsdk-samples/road_runner/
+airsdk-samples/telemetry_c/
+airsdk-samples/telemetry_cpp/
+airsdk-samples/tracking/
+airsdk-samples/video_photo_c/
+airsdk-samples/video_photo_cpp/
+airsdk-samples/.git/
+airsdk-samples/README.md
