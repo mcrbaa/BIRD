@@ -1,0 +1,21 @@
+Meshes:
+  - Name: 'Boitier'
+    FbxPath: "/home/agathe/code/parrot-olympe/olympe/files/boitier.fbx"
+    Location: "-330 0 80"  # The position in the 3D space
+    Rotation: "0 180 90"  # The orientation of the mesh
+    Scale: "0.1 0.1 0.1"  # The scale of the mesh
+    SnapToGround: true  # Whether to snap to the ground or float
+  - Name: 'Qrcode'
+    FbxPath: "/home/agathe/code/parrot-olympe/olympe/files/qr_code_3d_brut.fbx"
+    Location: "-330 0 80"  # The position in the 3D space
+    Rotation: "90 0 0"  # The orientation of the mesh
+    Scale: "0.1 0.1 0.1"  # The scale of the mesh
+    SnapToGround: false  # Whether to snap to the ground or float
+  - Name: 'FondBlanc'
+    FbxPath: "/home/agathe/code/parrot-olympe/olympe/files/fond_blanc.fbx"
+    Location: "-100 0 80"  # The position in the 3D space
+    Rotation: "90 0 0"  # The orientation of the mesh
+    Scale: "0.1 0.1 0.1"  # The scale of the mesh
+    SnapToGround: true  # Whether to snap to the ground or float
+
+
